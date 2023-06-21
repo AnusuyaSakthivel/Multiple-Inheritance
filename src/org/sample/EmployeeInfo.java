@@ -31,5 +31,6 @@ public static void main(String[] args) {
 	e.fixedDeposit();
 	e.loanInterest();
 	e.savings();
+	e.educationLoan();
 }
 }
